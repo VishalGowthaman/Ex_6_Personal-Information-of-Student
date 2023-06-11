@@ -27,11 +27,9 @@ Step 7: Save and run the application.
 
 ## Program:
  ```
-/*
 Program to develop personal information for student
-Developed by: Yuvadarshini S
-RegisterNumber: 21222120126 
-*/
+Developed by: Vishal Gowthaman K R
+RegisterNumber: 212221230123
 ```
 
 ## MainActivity.java:
